@@ -1,0 +1,6 @@
+package com.name.course2_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
