@@ -1,4 +1,4 @@
-# course2_flutter
+# XO_game
 
 A new Flutter application.
 
